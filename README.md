@@ -106,6 +106,8 @@
 <p align="center">
   <img src="assets/screenshot_fetchers.jpg" alt="Fetchers" width="220"/>
   &nbsp;
+  <img src="assets/screenshot_settings.jpg" alt="Settings" width="220"/>
+  &nbsp;
   <img src="assets/screenshot_about.jpg" alt="About" width="220"/>
 </p>
 
